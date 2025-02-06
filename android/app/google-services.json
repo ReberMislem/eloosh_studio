@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821831907010",
+    "project_id": "eloosh-d536e",
+    "storage_bucket": "eloosh-d536e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821831907010:android:73c6cc5cc13a864a0c2d5b",
+        "android_client_info": {
+          "package_name": "com.example.eloosh_studio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDufrtG9qhkI_Bgwd6MyGFSu8NYoX8Jewk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

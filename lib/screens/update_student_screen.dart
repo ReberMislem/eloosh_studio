@@ -29,7 +29,7 @@ class _UpdateStudentScreenState extends State<UpdateStudentScreen> {
         textDirection: TextDirection.rtl,
         child:  Scaffold(
         appBar: AppBar(
-        title: const Text('Update Student'),
+        title: const Text('تعديل البيانات '),
       ),
       body: Padding(
         padding: const EdgeInsets.all(10),
